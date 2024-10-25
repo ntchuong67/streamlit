@@ -1,0 +1,11 @@
+streamlit
+pandas
+pandas-datareader
+plotly
+matplotlib
+seaborn
+gunicorn
+httpx
+bs4 
+html5lib
+xlsxwriter

@@ -9,4 +9,7 @@ httpx
 bs4 
 html5lib
 xlsxwriter
-websocket
+setuptools~=49.2.0
+pandas~=1.0.5
+websocket-client~=0.57.0
+requests
